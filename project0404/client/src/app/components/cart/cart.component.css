@@ -1,0 +1,30 @@
+
+
+button{
+    cursor: pointer;
+}
+
+
+.cleanCanBtn{
+    margin-left: 250px;
+    position: relative;
+}
+
+.deleteProduct{
+    margin-left: inherit;
+}
+
+table {
+    border-collapse: separate;
+  }
+
+  tr td {
+    height: 1px;
+    border: 1px dashed black;
+    text-align: center;
+  }
+
+table tr{
+    height: 30px;
+    margin: 20px;
+}

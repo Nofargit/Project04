@@ -1,0 +1,30 @@
+
+            66
+              
+  order number 49 :
+
+
+              
+   product name    quantity   price   total 
+         
+             
+ 
+         Activa        9     4    36
+                 
+ 
+         Banana milk        4     6    24
+                 
+ 
+         aaaaa        5     444    2220
+                 
+ 
+         Toothbrush for pets        5     19    95
+                 
+ 
+         Toy for dogs        6     49    294
+                 
+ 
+         Tomato        4     3    12
+                 
+          
+   total price   = 2661  

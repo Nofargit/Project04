@@ -1,0 +1,23 @@
+
+              
+  order number 50 :
+
+                                
+   product name    quantity   price   total 
+  --------------------------------------------
+             
+ 
+    Hamburger      8     40    320
+                 
+ 
+    Banana milk      4     6    24
+                 
+ 
+    Mild Swiss cheese      0     12    0
+                 
+ 
+    Organic milk      5     6    30
+                 
+  --------------------------------------------
+            
+   total price   = 344  
